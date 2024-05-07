@@ -1172,7 +1172,6 @@ Puedes implementar este proyecto en JavaScript, Python o Java.
 * [C#](./docs/stack-csharp.md)
 
 ## 7. Pistas, tips y lecturas complementarias
-## 7. Pistas, tips y lecturas complementarias
 
 Te proponemos los siguientes pasos para iniciar con el proyecto
 
@@ -1239,6 +1238,8 @@ que hayas elegido:
 * Si estás usando NodeJS, puedes seguir este
 [tutorial](https://hackernoon.com/how-to-setup-a-nodejs-app-with-express-and-typescript)
 para crear un servidor HTTP con express y TypeScript
+* Si estás usando Python, puedes
+[el tutorial _Minimal Application_ de la documentación oficial de Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application)
 
 ### Paso 6.Conectar la instancia de Postgresql desde código
 
@@ -1250,10 +1251,9 @@ La librería recomendada dependerá del lenguaje de programación
 que hayas elegido:
 
 * Si estás usando NodeJS, puedes instalar y configurar
-[Node-postgres](https://node-postgres.com/)
-o
 [Prisma](https://www.prisma.io/docs/orm/overview/introduction/what-is-prisma).
-Discute con una coach la diferencia entre estas dos librerías.
+* Si estás usando Python, puedes instalar y configurar
+[SqlAlchemy](https://docs.sqlalchemy.org/en/latest/orm/quickstart.html)
 
 ### Paso 7. Modificar endpoint para consultar base de datos  
 
@@ -1290,6 +1290,7 @@ que hayas elegido:
 
 * Si estás usando NodeJS, puedes instalar y configurar
 [supertest](https://github.com/ladjs/supertest#readme)
+* Si estás usando Python, puedes instalar y configurar [pytest](https://docs.pytest.org/en/8.1.x/)
 
 ### Paso 10. Implementar los demás endpoints
 
