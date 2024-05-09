@@ -1097,7 +1097,7 @@ especificado
 * El código del _endpoint_ debe recibir _code review_ de al
 menos una compañera.
 * El código _endpoint_ debe estar cargado en un repositorio de Github.
-* El código _endpoint_ debe contar con test unitarios y e2e.
+* El código _endpoint_ debe contar con test unitarios
 
 ***
 
@@ -1127,7 +1127,7 @@ Animación que muestra en un mapa la trayectoria de un taxi.
 * El código del _endpoint_ debe recibir _code review_ de al
 menos una compañera.
 * El código _endpoint_ debe estar cargado en un repositorio de Github.
-* El código _endpoint_ debe contar con test unitarios y e2e.
+* El código _endpoint_ debe contar con test unitarios
 
 ***
 
@@ -1158,7 +1158,7 @@ id, placa, latitud, longitud y timestamp (fecha y hora).
 * El código del _endpoint_ debe recibir _code review_ de al
 menos una compañera.
 * El código _endpoint_ debe estar cargado en un repositorio de Github.
-* El código _endpoint_ debe contar con test unitarios y e2e.
+* El código _endpoint_ debe contar con test unitarios
 
 ***
 
