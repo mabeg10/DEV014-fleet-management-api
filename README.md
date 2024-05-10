@@ -1012,6 +1012,65 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [Documentación oficial de Typescript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#optional-properties)
 </p></details>
 
+### HTTP
+
+- [ ] **Consulta o petición (request) y respuesta (response).**
+
+  <details><summary>Links</summary><p>
+
+  * [Generalidades del protocolo HTTP - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/Overview)
+  * [Mensajes HTTP - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/Messages)
+</p></details>
+
+- [ ] **Cabeceras (headers)**
+
+  <details><summary>Links</summary><p>
+
+  * [HTTP headers - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/Headers)
+</p></details>
+
+- [ ] **Cuerpo (body)**
+
+  <details><summary>Links</summary><p>
+
+  * [Cuerpo de Mensajes HTTP - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/Messages#cuerpo)
+</p></details>
+
+- [ ] **Verbos HTTP**
+
+  <details><summary>Links</summary><p>
+
+  * [Métodos de petición HTTP - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/Methods)
+</p></details>
+
+- [ ] **Códigos de status de HTTP**
+
+  <details><summary>Links</summary><p>
+
+  * [Códigos de estado de respuesta HTTP - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
+  * [The Complete Guide to Status Codes for Meaningful ReST APIs - dev.to](https://dev.to/khaosdoctor/the-complete-guide-to-status-codes-for-meaningful-rest-apis-1-5c5)
+</p></details>
+
+- [ ] **Encodings y JSON**
+
+  <details><summary>Links</summary><p>
+
+  * [Introducción a JSON - Documentación oficial](https://www.json.org/json-es.html)
+</p></details>
+
+- [ ] **CORS (Cross-Origin Resource Sharing)**
+
+  <details><summary>Links</summary><p>
+
+  * [Control de acceso HTTP (CORS) - MDN](https://developer.mozilla.org/es/docs/Web/HTTP/CORS)
+</p></details>
+
+### Autenticación
+
+- [ ] **JWT (JSON Web Token)**
+
+- [ ] **Almacenamiento y acceso de contraseñas**
+
 ## 4. Consideraciones generales
 
 * Este proyecto se debe "resolver" en duplas.
