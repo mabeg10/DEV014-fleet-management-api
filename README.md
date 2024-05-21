@@ -1094,7 +1094,7 @@ peticiones HTTP, la información almacenada en la base de datos.
 El [_Product Owner_](https://www.youtube.com/watch?v=r2hU7MVIzxs&t=202s)
 nos presenta este _backlog_ que es el resultado de su trabajo con la clienta
 hasta hoy
-y la [documentación de la API REST](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/)
+y la [documentación de la API REST](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/)
 a desarrollar.
 
 ***
@@ -1143,7 +1143,7 @@ Las opciones se filtran según el text que se escriba en la lista.
 ##### Criterios de aceptación
 
 * El _endpoint_ es implementado de acuerdo a la
-  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/trajectories/getTaxis)
+  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/getTaxis)
 * El _endpoint_ responde con el id y placa del taxi
 * El _endpoint_ soporta un parametro _query_ para retornar
 unicamente los taxis cuya placa contenga el texto
@@ -1177,7 +1177,7 @@ Animación que muestra en un mapa la trayectoria de un taxi.
 ##### Criterios de aceptación
 
 * El _endpoint_ es implementado de acuerdo a la
-  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/trajectories/getTrajectories)
+  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/getTrajectories)
 * El _endpoint_ responde con el id del taxi y una fecha mostrando
   la siguiente información: latitud, longitud y timestamp (fecha y hora).
 
@@ -1208,7 +1208,7 @@ muestra un mapa la última posición de un taxi.
 ##### Criterios de aceptación
 
 * El _endpoint_ es implementado de acuerdo a la
-  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/trajectories/getLatestTrajectories)
+  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/getLatestTrajectories)
 * El _endpoint_ responde para cada taxi la siguiente información:
 id, placa, latitud, longitud y timestamp (fecha y hora).
 
@@ -1320,7 +1320,7 @@ Utiliza la librería elegida para consultar la base de
 datos y que tu API responda a la petición GET
 /taxis con el listado de taxis tal como se especifica
 en la
-[documentación](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/taxis/getTaxi).
+[documentación](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/taxis/getTaxi).
 
 De nuevo, usa
 [Postman](https://learning.postman.com/docs/getting-started/first-steps/overview/)
@@ -1331,7 +1331,7 @@ lo solicitado.
 ### Paso 8. Soportar parametros en el endpoint
 
 De acuerdo a la
-[documentación](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/taxis/getTaxi)
+[documentación](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/taxis/getTaxi)
 el endpoint GET /taxis soporta 3 parametros: query, page y limit.
 
 Modifica tu código para soportar peticiones a tu endpoint
