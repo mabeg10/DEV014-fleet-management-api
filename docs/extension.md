@@ -28,9 +28,6 @@ proporcionada.
 por al menos una compañera.
 * El código de los _endpoints_ debe contar con test unitarios y e2e.
 
-Por supuesto, aquí tienes la historia de usuario para un endpoint de login que
-devuelve un JWT (JSON Web Token) dado un correo electrónico y contraseña válidos:
-
 ***
 
 ## [Historia de usuario 6] Autenticación de usuarios mediante JWT
