@@ -9,17 +9,17 @@ usuarios de la plataforma.
 ### Criterios de aceptación
 
 * Crear un endpoint para la creación de usuarios de acuerdo a la
-[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/users/createUser)
+[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/users/createUser)
 proporcionada.
 * Desarollar un endpoint para la obtención de usuarios de acuerdo a la
-[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/users/getUsers)
+[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/users/getUsers)
 proporcionada.
 * Implementar un endpoint para actualizar la
 información de un usuario existente de acuerdo a la
-[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/users/updateUser)
+[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/users/updateUser)
 proporcionada.
 * Crear un endpoint para eliminar un usuario de acuerdo a la
-[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/users/deleteUser)
+[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/users/deleteUser)
 proporcionada.
 
 ### Definición de terminado
@@ -39,7 +39,7 @@ JWT válido que pueda ser utilizado para acceder a recursos protegidos.
 ### Criterios de aceptación
 
 * Implementar el _endpoint_ de autenticación de acuerdo a la
-[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/auth/getToken)
+[documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/auth/getToken)
 proporcionada.
 * El _endpoint_ debe aceptar un correo electrónico y una contraseña válidos
 como parámetros de entrada.
@@ -116,7 +116,7 @@ estrategias existen.
 ### Definición de terminado
 
 * El _endpoint_ es implementado de acuerdo a la
-  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/1.0.0#/trajectories/exportTrajectories)
+  [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/exportTrajectories)
 * El _endpoint_ envia un archivo en formato excel con
 la siguiente información: ID, placa, latitud, longitud y
 fecha y hora.
