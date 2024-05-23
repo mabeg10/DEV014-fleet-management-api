@@ -21,6 +21,8 @@ proporcionada.
 * Crear un endpoint para eliminar un usuario de acuerdo a la
 [documentación Swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/users/deleteUser)
 proporcionada.
+* No implementar las respuestas 401 y 403 pues seran implementadas
+  en la Historia de Usuaria 7.
 
 ### Definición de terminado
 
