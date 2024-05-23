@@ -1144,8 +1144,8 @@ Las opciones se filtran según el text que se escriba en la lista.
 
 * El _endpoint_ es implementado de acuerdo a la
   [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/getTaxis).
-  A excepción de las respuestas 401 y 403 que seran implementadas
-  en la Historia de Usuaria 7.
+  A excepción de la respuesta 401 que sera implementada
+  hasta la Historia de Usuaria 7.
 * El _endpoint_ responde con el id y placa del taxi
 * El _endpoint_ soporta un parametro _query_ para retornar
 unicamente los taxis cuya placa contenga el texto
@@ -1180,8 +1180,8 @@ Animación que muestra en un mapa la trayectoria de un taxi.
 
 * El _endpoint_ es implementado de acuerdo a la
   [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/getTrajectories)
-  A excepción de las respuestas 401 y 403 que seran implementadas
-  en la Historia de Usuaria 7.
+  A excepción de la respuesta 401 que sera implementada
+  hasta la Historia de Usuaria 7.
 * El _endpoint_ responde con el id del taxi y una fecha mostrando
   la siguiente información: latitud, longitud y timestamp (fecha y hora).
 
@@ -1213,8 +1213,8 @@ muestra un mapa la última posición de un taxi.
 
 * El _endpoint_ es implementado de acuerdo a la
   [documentación swagger](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/trajectories/getLatestTrajectories)
-  A excepción de las respuestas 401 y 403 que seran implementadas
-  en la Historia de Usuaria 7.  
+  a excepción de las respuestas 401 que sera implementada
+  hasta la Historia de Usuaria 7.  
 * El _endpoint_ responde para cada taxi la siguiente información:
 id, placa, latitud, longitud y timestamp (fecha y hora).
 
