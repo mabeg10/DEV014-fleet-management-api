@@ -1360,7 +1360,8 @@ que hayas elegido:
 * Si estás usando NodeJS, puedes instalar y configurar
 [supertest](https://github.com/ladjs/supertest#readme)
 * Si estás usando Python, puedes instalar y configurar [pytest](https://docs.pytest.org/en/8.1.x/)
-
+* Si estás usando Java, puede instalar y configurar
+* 
 ### Paso 10. Implementar los demás endpoints
 
 ¡Felicitaciones! Hasta este punto ya has completado la
