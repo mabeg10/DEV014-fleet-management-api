@@ -1305,6 +1305,8 @@ que hayas elegido:
 para crear un servidor HTTP con express y TypeScript
 * Si estás usando Python, puedes
 [el tutorial _Minimal Application_ de la documentación oficial de Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application)
+* Si estás usando Java, puedes seguir este
+[video de Primer Endpoint con Java](https://youtu.be/-FRu28PvH6Q)
 
 ### Paso 6.Conectar la instancia de Postgresql desde código
 
@@ -1319,6 +1321,8 @@ que hayas elegido:
 [Prisma](https://www.prisma.io/docs/orm/overview/introduction/what-is-prisma).
 * Si estás usando Python, puedes instalar y configurar
 [SqlAlchemy](https://docs.sqlalchemy.org/en/latest/orm/quickstart.html)
+* Si estás usando Java, puedes instalar y configurar
+[Hibernate](https://docs.spring.io/spring-framework/reference/data-access/orm/hibernate.html)
 
 ### Paso 7. Modificar endpoint para consultar base de datos  
 
